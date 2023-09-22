@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+.scroll_bar {
+    border: solid 1px #000;
+    border-radius: 10px 0 0 10px;
+    overflow: scroll;
+    background-color: #dfa8ebea;
+    height: 600px;
+}
+
+.block {
+    display: inline-block;
+    box-shadow: inset -1px 0 7px 3px #72537a;
+    background: #b181cef5;
+    margin: 15px;
+    padding: 20px;
+    width: 300px;
+    height: 250px;
+    border-radius: 15px;
+    font-size: 18px;
+    color: #000000c0;
+}
